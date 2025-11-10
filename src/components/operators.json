@@ -13,8 +13,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/12F_icon.png", 
-        "full": "/images/operators/12F.png"
+        "portrait": "images/operators/12F_icon.png", 
+        "full": "images/operators/12F.png"
     }
   },
 
@@ -32,8 +32,8 @@
         "event_name": "Ancient Forge"
     },
     "image": { 
-        "portrait": "/images/operators/Aak_icon.png", 
-        "full": "/images/operators/Aak.png"
+        "portrait": "images/operators/Aak_icon.png", 
+        "full": "images/operators/Aak.png"
     }
   },
   {
@@ -50,8 +50,8 @@
         "event_name": "Children of Ursus"
     },
     "image": { 
-        "portrait": "/images/operators/Absinthe_icon.png", 
-        "full": "/images/operators/Absinthe.png"
+        "portrait": "images/operators/Absinthe_icon.png", 
+        "full": "images/operators/Absinthe.png"
     }
   },
   {
@@ -68,8 +68,8 @@
         "event_name": "The Great Chief Returns"
     },
     "image": { 
-        "portrait": "/images/operators/Aciddrop_icon.png", 
-        "full": "/images/operators/Aciddrop.png"
+        "portrait": "images/operators/Aciddrop_icon.png", 
+        "full": "images/operators/Aciddrop.png"
     }
   },
   {
@@ -86,8 +86,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Adnachiel_icon.png", 
-        "full": "/images/operators/Adnachiel.png"
+        "portrait": "images/operators/Adnachiel_icon.png", 
+        "full": "images/operators/Adnachiel.png"
     }
   },
   {
@@ -104,8 +104,8 @@
         "event_name": "Under Tides"
     },
     "image": { 
-        "portrait": "/images/operators/Akafuyu_icon.png", 
-        "full": "/images/operators/Akafuyu.png"
+        "portrait": "images/operators/Akafuyu_icon.png", 
+        "full": "images/operators/Akafuyu.png"
     }
   },
   {
@@ -122,8 +122,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Amiya_icon.png",
-      "full": "/images/operators/Amiya.png"
+      "portrait": "images/operators/Amiya_icon.png",
+      "full": "images/operators/Amiya.png"
     }
   },
   {
@@ -140,8 +140,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Angelina_icon.png",
-      "full": "/images/operators/Angelina.png"
+      "portrait": "images/operators/Angelina_icon.png",
+      "full": "images/operators/Angelina.png"
     }
   },
   {
@@ -158,8 +158,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Ansel_icon.png",
-      "full": "/images/operators/Ansel.png"
+      "portrait": "images/operators/Ansel_icon.png",
+      "full": "images/operators/Ansel.png"
     }
   },
 
@@ -178,8 +178,8 @@
         "event_name": "Contingency Contract Barrenland"
     },
     "image": { 
-        "portrait": "/images/operators/Bagpipe_icon.png", 
-        "full": "/images/operators/Bagpipe.png"
+        "portrait": "images/operators/Bagpipe_icon.png", 
+        "full": "images/operators/Bagpipe.png"
     }
   },
   {
@@ -196,8 +196,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Beagle_icon.png",
-      "full": "/images/operators/Beagle.png"
+      "portrait": "images/operators/Beagle_icon.png",
+      "full": "images/operators/Beagle.png"
     }
   },
   {
@@ -214,8 +214,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Blue_Poison_icon.png",
-      "full": "/images/operators/Blue_Poison.png"
+      "portrait": "images/operators/Blue_Poison_icon.png",
+      "full": "images/operators/Blue_Poison.png"
     }
   },
 
@@ -234,8 +234,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Cardigan_icon.png",
-      "full": "/images/operators/Cardigan.png"
+      "portrait": "images/operators/Cardigan_icon.png",
+      "full": "images/operators/Cardigan.png"
     }
   },
   {
@@ -252,8 +252,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Castle-3_icon.png", 
-        "full": "/images/operators/Castle-3.png"
+        "portrait": "images/operators/Castle-3_icon.png", 
+        "full": "images/operators/Castle-3.png"
     }
   },
 
@@ -271,8 +271,8 @@
         "event_name": "Necessary Solutions"
     },
     "image": { 
-        "portrait": "/images/operators/Chen_icon.png", 
-        "full": "/images/operators/Chen.png"
+        "portrait": "images/operators/Chen_icon.png", 
+        "full": "images/operators/Chen.png"
     }
   },
   {
@@ -289,8 +289,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Cliffheart_icon.png",
-      "full": "/images/operators/Cliffheart.png"
+      "portrait": "images/operators/Cliffheart_icon.png",
+      "full": "images/operators/Cliffheart.png"
     }
   },
   {
@@ -307,8 +307,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Courier_icon.png",
-      "full": "/images/operators/Courier.png"
+      "portrait": "images/operators/Courier_icon.png",
+      "full": "images/operators/Courier.png"
     }
   },
   {
@@ -325,8 +325,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Croissant_icon.png",
-      "full": "/images/operators/Croissant.png"
+      "portrait": "images/operators/Croissant_icon.png",
+      "full": "images/operators/Croissant.png"
     }
   },
   {
@@ -343,8 +343,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Cuora_icon.png",
-      "full": "/images/operators/Cuora.png"
+      "portrait": "images/operators/Cuora_icon.png",
+      "full": "images/operators/Cuora.png"
     }
   },
 
@@ -363,8 +363,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Deepcolor_icon.png",
-      "full": "/images/operators/Deepcolor.png"
+      "portrait": "images/operators/Deepcolor_icon.png",
+      "full": "images/operators/Deepcolor.png"
     }
   },
   {
@@ -381,8 +381,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Dobermann_icon.png",
-      "full": "/images/operators/Dobermann.png"
+      "portrait": "images/operators/Dobermann_icon.png",
+      "full": "images/operators/Dobermann.png"
     }
   },
   {
@@ -399,8 +399,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Durin_icon.png", 
-        "full": "/images/operators/Durin.png"
+        "portrait": "images/operators/Durin_icon.png", 
+        "full": "images/operators/Durin.png"
     }
   },
 
@@ -419,8 +419,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Earthspirit_icon.png",
-      "full": "/images/operators/Earthspirit.png"
+      "portrait": "images/operators/Earthspirit_icon.png",
+      "full": "images/operators/Earthspirit.png"
     }
   },
   {
@@ -437,8 +437,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Estelle_icon.png",
-      "full": "/images/operators/Estelle.png"
+      "portrait": "images/operators/Estelle_icon.png",
+      "full": "images/operators/Estelle.png"
     }
   },
   {
@@ -455,8 +455,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Eyjafjalla_icon.png", 
-        "full": "/images/operators/Eyjafjalla.png"
+        "portrait": "images/operators/Eyjafjalla_icon.png", 
+        "full": "images/operators/Eyjafjalla.png"
     }
   },
   {
@@ -473,8 +473,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Exusiai_icon.png", 
-        "full": "/images/operators/Exusiai.png"
+        "portrait": "images/operators/Exusiai_icon.png", 
+        "full": "images/operators/Exusiai.png"
     }
   },
 
@@ -493,8 +493,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Fang_icon.png",
-      "full": "/images/operators/Fang.png"
+      "portrait": "images/operators/Fang_icon.png",
+      "full": "images/operators/Fang.png"
     }
   },
   {
@@ -511,8 +511,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/FEater_icon.png",
-      "full": "/images/operators/FEater.png"
+      "portrait": "images/operators/FEater_icon.png",
+      "full": "images/operators/FEater.png"
     }
   },
   {
@@ -529,8 +529,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Firewatch_icon.png",
-      "full": "/images/operators/Firewatch.png"
+      "portrait": "images/operators/Firewatch_icon.png",
+      "full": "images/operators/Firewatch.png"
     }
   },
   {
@@ -547,8 +547,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Franka_icon.png",
-      "full": "/images/operators/Franka.png"
+      "portrait": "images/operators/Franka_icon.png",
+      "full": "images/operators/Franka.png"
     }
   },
   {
@@ -565,8 +565,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Frostleaf_icon.png",
-      "full": "/images/operators/Frostleaf.png"
+      "portrait": "images/operators/Frostleaf_icon.png",
+      "full": "images/operators/Frostleaf.png"
     }
   },
 
@@ -585,8 +585,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Gavial_icon.png",
-      "full": "/images/operators/Gavial.png"
+      "portrait": "images/operators/Gavial_icon.png",
+      "full": "images/operators/Gavial.png"
     }
   },
   {
@@ -603,8 +603,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Gitano_icon.png",
-      "full": "/images/operators/Gitano.png"
+      "portrait": "images/operators/Gitano_icon.png",
+      "full": "images/operators/Gitano.png"
     }
   },
   {
@@ -621,8 +621,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Gravel_icon.png",
-      "full": "/images/operators/Gravel.png"
+      "portrait": "images/operators/Gravel_icon.png",
+      "full": "images/operators/Gravel.png"
     }
   },
   {
@@ -639,8 +639,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Gummy_icon.png",
-      "full": "/images/operators/Gummy.png"
+      "portrait": "images/operators/Gummy_icon.png",
+      "full": "images/operators/Gummy.png"
     }
   },
 
@@ -659,8 +659,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Haze_icon.png",
-      "full": "/images/operators/Haze.png"
+      "portrait": "images/operators/Haze_icon.png",
+      "full": "images/operators/Haze.png"
     }
   },
   {
@@ -677,8 +677,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Hibiscus_icon.png",
-      "full": "/images/operators/Hibiscus.png"
+      "portrait": "images/operators/Hibiscus_icon.png",
+      "full": "images/operators/Hibiscus.png"
     }
   },
   {
@@ -695,8 +695,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Hoshiguma_icon.png",
-      "full": "/images/operators/Hoshiguma.png"
+      "portrait": "images/operators/Hoshiguma_icon.png",
+      "full": "images/operators/Hoshiguma.png"
     }
   },
 
@@ -715,8 +715,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Ifrit_icon.png", 
-        "full": "/images/operators/Ifrit.png"
+        "portrait": "images/operators/Ifrit_icon.png", 
+        "full": "images/operators/Ifrit.png"
     }
   },
   {
@@ -733,8 +733,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Indra_icon.png",
-      "full": "/images/operators/Indra.png"
+      "portrait": "images/operators/Indra_icon.png",
+      "full": "images/operators/Indra.png"
     }
   },
   {
@@ -751,8 +751,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Istina_icon.png",
-      "full": "/images/operators/Istina.png"
+      "portrait": "images/operators/Istina_icon.png",
+      "full": "images/operators/Istina.png"
     }
   },
 
@@ -771,8 +771,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Jessica_icon.png",
-      "full": "/images/operators/Jessica.png"
+      "portrait": "images/operators/Jessica_icon.png",
+      "full": "images/operators/Jessica.png"
     }
   },
 
@@ -791,8 +791,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Kroos_icon.png",
-      "full": "/images/operators/Kroos.png"
+      "portrait": "images/operators/Kroos_icon.png",
+      "full": "images/operators/Kroos.png"
     }
   },
 
@@ -812,8 +812,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Lancet-2_icon.png", 
-        "full": "/images/operators/Lancet-2.png"
+        "portrait": "images/operators/Lancet-2_icon.png", 
+        "full": "images/operators/Lancet-2.png"
     }
   },
   {
@@ -830,8 +830,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Lappland_icon.png",
-      "full": "/images/operators/Lappland.png"
+      "portrait": "images/operators/Lappland_icon.png",
+      "full": "images/operators/Lappland.png"
     }
   },
   {
@@ -848,8 +848,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Lava_icon.png",
-      "full": "/images/operators/Lava.png"
+      "portrait": "images/operators/Lava_icon.png",
+      "full": "images/operators/Lava.png"
     }
   },
   {
@@ -866,8 +866,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Liskarm_icon.png",
-      "full": "/images/operators/Liskarm.png"
+      "portrait": "images/operators/Liskarm_icon.png",
+      "full": "images/operators/Liskarm.png"
     }
   },
 
@@ -886,8 +886,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Manticore_icon.png",
-      "full": "/images/operators/Manticore.png"
+      "portrait": "images/operators/Manticore_icon.png",
+      "full": "images/operators/Manticore.png"
     }
   }, 
   {
@@ -904,8 +904,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Matoimaru_icon.png",
-      "full": "/images/operators/Matoimaru.png"
+      "portrait": "images/operators/Matoimaru_icon.png",
+      "full": "images/operators/Matoimaru.png"
     }
   },
   {
@@ -922,8 +922,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Matterhorn_icon.png",
-      "full": "/images/operators/Matterhorn.png"
+      "portrait": "images/operators/Matterhorn_icon.png",
+      "full": "images/operators/Matterhorn.png"
     }
   },
   {
@@ -940,8 +940,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Mayer_icon.png",
-      "full": "/images/operators/Mayer.png"
+      "portrait": "images/operators/Mayer_icon.png",
+      "full": "images/operators/Mayer.png"
     }
   },
   {
@@ -958,8 +958,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Melantha_icon.png",
-      "full": "/images/operators/Melantha.png"
+      "portrait": "images/operators/Melantha_icon.png",
+      "full": "images/operators/Melantha.png"
     }
   },
   {
@@ -976,8 +976,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Meteor_icon.png",
-      "full": "/images/operators/Meteor.png"
+      "portrait": "images/operators/Meteor_icon.png",
+      "full": "images/operators/Meteor.png"
     }
   },
   {
@@ -994,8 +994,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Meteorite_icon.png",
-      "full": "/images/operators/Meteorite.png"
+      "portrait": "images/operators/Meteorite_icon.png",
+      "full": "images/operators/Meteorite.png"
     }
   },
   {
@@ -1012,8 +1012,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Mousse_icon.png",
-      "full": "/images/operators/Mousse.png"
+      "portrait": "images/operators/Mousse_icon.png",
+      "full": "images/operators/Mousse.png"
     }
   },
   {
@@ -1030,8 +1030,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Myrrh_icon.png",
-      "full": "/images/operators/Myrrh.png"
+      "portrait": "images/operators/Myrrh_icon.png",
+      "full": "images/operators/Myrrh.png"
     }
   },
 
@@ -1050,8 +1050,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Nearl_icon.png",
-      "full": "/images/operators/Nearl.png"
+      "portrait": "images/operators/Nearl_icon.png",
+      "full": "images/operators/Nearl.png"
     }
   },
   {
@@ -1068,8 +1068,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Nightingale_icon.png", 
-        "full": "/images/operators/Nightingale.png"
+        "portrait": "images/operators/Nightingale_icon.png", 
+        "full": "images/operators/Nightingale.png"
     }
   },
   {
@@ -1086,8 +1086,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Noir_Corne_icon.png", 
-        "full": "/images/operators/Noir_Corne.png"
+        "portrait": "images/operators/Noir_Corne_icon.png", 
+        "full": "images/operators/Noir_Corne.png"
     }
   },
 
@@ -1106,8 +1106,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Orchid_icon.png",
-      "full": "/images/operators/Orchid.png"
+      "portrait": "images/operators/Orchid_icon.png",
+      "full": "images/operators/Orchid.png"
     }
   },
 
@@ -1126,8 +1126,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Perfumer_icon.png",
-      "full": "/images/operators/Perfumer.png"
+      "portrait": "images/operators/Perfumer_icon.png",
+      "full": "images/operators/Perfumer.png"
     }
   },
   {
@@ -1144,8 +1144,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Platinum_icon.png",
-      "full": "/images/operators/Platinum.png"
+      "portrait": "images/operators/Platinum_icon.png",
+      "full": "images/operators/Platinum.png"
     }
   },
   {
@@ -1162,8 +1162,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Plume_icon.png",
-      "full": "/images/operators/Plume.png"
+      "portrait": "images/operators/Plume_icon.png",
+      "full": "images/operators/Plume.png"
     }
   },
   {
@@ -1180,8 +1180,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Pramanix_icon.png",
-      "full": "/images/operators/Pramanix.png"
+      "portrait": "images/operators/Pramanix_icon.png",
+      "full": "images/operators/Pramanix.png"
     }
   },
   {
@@ -1198,8 +1198,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Projekt_Red_icon.png",
-      "full": "/images/operators/Projekt_Red.png"
+      "portrait": "images/operators/Projekt_Red_icon.png",
+      "full": "images/operators/Projekt_Red.png"
     }
   },
   {
@@ -1216,8 +1216,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Provence_icon.png",
-      "full": "/images/operators/Provence.png"
+      "portrait": "images/operators/Provence_icon.png",
+      "full": "images/operators/Provence.png"
     }
   },
   {
@@ -1234,8 +1234,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Ptilopsis_icon.png",
-      "full": "/images/operators/Ptilopsis.png"
+      "portrait": "images/operators/Ptilopsis_icon.png",
+      "full": "images/operators/Ptilopsis.png"
     }
   },
 
@@ -1254,8 +1254,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Rangers_icon.png", 
-        "full": "/images/operators/Rangers.png"
+        "portrait": "images/operators/Rangers_icon.png", 
+        "full": "images/operators/Rangers.png"
     }
   },
   {
@@ -1272,8 +1272,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Rope_icon.png",
-      "full": "/images/operators/Rope.png"
+      "portrait": "images/operators/Rope_icon.png",
+      "full": "images/operators/Rope.png"
     }
   },
 
@@ -1292,8 +1292,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Saria_icon.png",
-      "full": "/images/operators/Saria.png"
+      "portrait": "images/operators/Saria_icon.png",
+      "full": "images/operators/Saria.png"
     }
   },
   {
@@ -1310,8 +1310,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Scavenger_icon.png",
-      "full": "/images/operators/Scavenger.png"
+      "portrait": "images/operators/Scavenger_icon.png",
+      "full": "images/operators/Scavenger.png"
     }
   },
   {
@@ -1328,8 +1328,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Shaw_icon.png",
-      "full": "/images/operators/Shaw.png"
+      "portrait": "images/operators/Shaw_icon.png",
+      "full": "images/operators/Shaw.png"
     }
   },
   {
@@ -1346,8 +1346,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Shining_icon.png",
-      "full": "/images/operators/Shining.png"
+      "portrait": "images/operators/Shining_icon.png",
+      "full": "images/operators/Shining.png"
     }
   },
   {
@@ -1364,8 +1364,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Shirayuki_icon.png",
-      "full": "/images/operators/Shirayuki.png"
+      "portrait": "images/operators/Shirayuki_icon.png",
+      "full": "images/operators/Shirayuki.png"
     }
   },
   {
@@ -1382,8 +1382,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Siege_icon.png",
-      "full": "/images/operators/Siege.png"
+      "portrait": "images/operators/Siege_icon.png",
+      "full": "images/operators/Siege.png"
     }
   },
   {
@@ -1400,8 +1400,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Silence_icon.png",
-      "full": "/images/operators/Silence.png"
+      "portrait": "images/operators/Silence_icon.png",
+      "full": "images/operators/Silence.png"
     }
   },
   {
@@ -1418,8 +1418,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/SilverAsh_icon.png", 
-        "full": "/images/operators/SilverAsh.png"
+        "portrait": "images/operators/SilverAsh_icon.png", 
+        "full": "images/operators/SilverAsh.png"
     }
   },
   {
@@ -1436,8 +1436,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Skyfire_icon.png",
-      "full": "/images/operators/Skyfire.png"
+      "portrait": "images/operators/Skyfire_icon.png",
+      "full": "images/operators/Skyfire.png"
     }
   },
   {
@@ -1454,8 +1454,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Sora_icon.png",
-      "full": "/images/operators/Sora.png"
+      "portrait": "images/operators/Sora_icon.png",
+      "full": "images/operators/Sora.png"
     }
   },
   {
@@ -1472,8 +1472,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Specter_icon.png",
-      "full": "/images/operators/Specter.png"
+      "portrait": "images/operators/Specter_icon.png",
+      "full": "images/operators/Specter.png"
     }
   },
   {
@@ -1490,8 +1490,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Steward_icon.png",
-      "full": "/images/operators/Steward.png"
+      "portrait": "images/operators/Steward_icon.png",
+      "full": "images/operators/Steward.png"
     }
   },
   {
@@ -1508,8 +1508,8 @@
         "event_name": "Rewinding Breeze"
     },
     "image": { 
-        "portrait": "/images/operators/Surtr_icon.png", 
-        "full": "/images/operators/Surtr.png"
+        "portrait": "images/operators/Surtr_icon.png", 
+        "full": "images/operators/Surtr.png"
     }
   },
   {
@@ -1526,8 +1526,8 @@
         "event_name": "Grani and the Knights' Treasure Rerun"
     },
     "image": { 
-        "portrait": "/images/operators/Skadi_icon.png", 
-        "full": "/images/operators/Skadi.png"
+        "portrait": "images/operators/Skadi_icon.png", 
+        "full": "images/operators/Skadi.png"
     }
   },
 
@@ -1546,8 +1546,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Texas_icon.png", 
-        "full": "/images/operators/Texas.png"
+        "portrait": "images/operators/Texas_icon.png", 
+        "full": "images/operators/Texas.png"
     }
   },
 
@@ -1566,8 +1566,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Vanilla_icon.png",
-      "full": "/images/operators/Vanilla.png"
+      "portrait": "images/operators/Vanilla_icon.png",
+      "full": "images/operators/Vanilla.png"
     }
   },
   {
@@ -1584,8 +1584,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Vigna_icon.png",
-      "full": "/images/operators/Vigna.png"
+      "portrait": "images/operators/Vigna_icon.png",
+      "full": "images/operators/Vigna.png"
     }
   },
   {
@@ -1602,8 +1602,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Vulcan_icon.png",
-      "full": "/images/operators/Vulcan.png"
+      "portrait": "images/operators/Vulcan_icon.png",
+      "full": "images/operators/Vulcan.png"
     }
   },
 
@@ -1622,8 +1622,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Warfarin_icon.png",
-      "full": "/images/operators/Warfarin.png"
+      "portrait": "images/operators/Warfarin_icon.png",
+      "full": "images/operators/Warfarin.png"
     }
   },
 
@@ -1642,8 +1642,8 @@
         "event_name": "Launch"
     },
     "image": { 
-        "portrait": "/images/operators/Yato_icon.png", 
-        "full": "/images/operators/Yato.png"
+        "portrait": "images/operators/Yato_icon.png", 
+        "full": "images/operators/Yato.png"
     }
   },
 
@@ -1661,8 +1661,8 @@
       "event_name": "Launch"
     },
     "image": {
-      "portrait": "/images/operators/Zima_icon.png",
-      "full": "/images/operators/Zima.png"
+      "portrait": "images/operators/Zima_icon.png",
+      "full": "images/operators/Zima.png"
     }
   }
   
