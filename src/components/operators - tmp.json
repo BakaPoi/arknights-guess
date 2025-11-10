@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Siege",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "Glasgow",
+    "race": "Aslan",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Siege_icon.png",
+      "full": "/images/operators/Siege.png"
+    }
+  },
+  {
+    "name": "Angelina",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Supporter",
+    "archetype": "Decel Binder",
+    "faction": "Siracusa",
+    "race": "Vulpo",
+    "region": "Siracusa",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Angelina_icon.png",
+      "full": "/images/operators/Angelina.png"
+    }
+  },
+  {
+    "name": "Shining",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Followers",
+    "race": "Sarkaz",
+    "region": "Kazdel",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Shining_icon.png",
+      "full": "/images/operators/Shining.png"
+    }
+  },
+  {
+    "name": "Hoshiguma",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Defender",
+    "archetype": "Protector",
+    "faction": "Lungmen Guard Department",
+    "race": "Oni",
+    "region": "Higashi",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Hoshiguma_icon.png",
+      "full": "/images/operators/Hoshiguma.png"
+    }
+  },
+  {
+    "name": "Saria",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Defender",
+    "archetype": "Guardian",
+    "faction": "Rhine Lab",
+    "race": "Vouivre",
+    "region": "Columbia",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Saria_icon.png",
+      "full": "/images/operators/Saria.png"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+/* ===== table.css ===== */
+.guess-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--table-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: background-color 0.3s, border 0.3s;
+}
+
+.guess-table th, .guess-table td {
+  text-align: center;
+  padding: 0.7rem;
+  border-bottom: 1px solid var(--border-color);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.guess-table th {
+  background-color: #1b1e25;
+  color: var(--bg-color); /*inverse du texte color*/
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.portrait {
+  width: 60px;
+  height: 60px;
+  border-radius: 8px;
+}
+
+.cell-green {
+  background-color: rgba(67, 208, 137, 0.25);
+}
+.cell-red {
+  background-color: rgba(255, 76, 76, 0.25);
+}
+.cell-orange {
+  background-color: rgba(255, 179, 71, 0.25);
+}
+.cell-gray {
+  background-color: rgba(160, 160, 160, 0.15);
+}

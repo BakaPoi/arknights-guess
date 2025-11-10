@@ -1,0 +1,63 @@
+/* ===== popup.css ===== */
+.win-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.65);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 200;
+  animation: fadeIn 0.3s ease-in;
+}
+
+.win-popup {
+  background-color: var(--popup-bg);
+  color: var(--text-color);
+  padding: 2rem;
+  border-radius: 16px;
+  text-align: center;
+  width: 90%;
+  max-width: 400px;
+  box-shadow: 0 0 20px var(--box-shadow);
+  animation: scaleIn 0.3s ease-out;
+}
+
+.win-popup h2 {
+  color: var(--accent-color);
+}
+
+.win-name {
+  font-size: 1.4rem;
+  color: var(--accent);
+  margin: 0.5rem 0;
+}
+
+.win-image {
+  width: 75%;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+}
+
+.win-button {
+  background-color: var(--accent-color);
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.win-button:hover {
+  background-color: var(--cell-gray);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scaleIn {
+  from { transform: scale(0.9); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}

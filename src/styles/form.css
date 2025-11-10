@@ -1,0 +1,83 @@
+/* ===== form.css ===== */
+.guess-form {
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.input-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+}
+
+.guess-input {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background-color: var(--input-bg);
+  color: var(--input-text);
+  font-size: 1rem;
+  transition: border 0.2s, background-color 0.3s, color 0.3s;
+}
+
+.guess-input:focus {
+  outline: none;
+  border-color: var(--accent-color);
+}
+
+.autocomplete-list {
+  position: absolute;
+  top: 105%;
+  left: 0;
+  right: 0;
+  background-color: var(--input-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.autocomplete-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.autocomplete-item:hover {
+  background-color: var(--cell-gray);
+}
+
+.autocomplete-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+}
+
+.submit-btn {
+  background-color: var(--accent-color);
+  color: #fff;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-btn:hover {
+  background-color: var(--box-shadow);
+  color: var(--cell-gray);
+}
+
+.attempts {
+  color: #888;
+  font-size: 0.9rem;
+}

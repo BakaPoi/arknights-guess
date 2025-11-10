@@ -1,0 +1,1669 @@
+[
+  {
+    "name": "12F",
+    "gender": "M",
+    "rarity": 2,
+    "class": "Caster",
+    "archetype": "Splash",
+    "faction": "Rhodes Island",
+    "race": "Savra",
+    "region": "Unknown",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/12F_icon.png", 
+        "full": "/images/operators/12F.png"
+    }
+  },
+
+  {
+    "name": "Aak",
+    "gender": "M",
+    "rarity": 6,
+    "class": "Specialist",
+    "archetype": "Geek",
+    "faction": "Lee's Detective Agency",
+    "race": "Feline",
+    "region": "Lungmen",
+    "release": { 
+        "date_global": "2020-07-29", 
+        "event_name": "Ancient Forge"
+    },
+    "image": { 
+        "portrait": "/images/operators/Aak_icon.png", 
+        "full": "/images/operators/Aak.png"
+    }
+  },
+  {
+    "name": "Absinthe",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Caster",
+    "archetype": "Core",
+    "faction": "Ursus",
+    "race": "Ursus",
+    "region": "Ursus",
+    "release": { 
+        "date_global": "2020-09-29", 
+        "event_name": "Children of Ursus"
+    },
+    "image": { 
+        "portrait": "/images/operators/Absinthe_icon.png", 
+        "full": "/images/operators/Absinthe.png"
+    }
+  },
+  {
+    "name": "Aciddrop",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Sniper",
+    "archetype": "Heavyshooter",
+    "faction": "Columbia",
+    "race": "Liberi",
+    "region": "Columbia",
+    "release": { 
+        "date_global": "2021-02-25", 
+        "event_name": "The Great Chief Returns"
+    },
+    "image": { 
+        "portrait": "/images/operators/Aciddrop_icon.png", 
+        "full": "/images/operators/Aciddrop.png"
+    }
+  },
+  {
+    "name": "Adnachiel",
+    "gender": "M",
+    "rarity": 3,
+    "class": "Sniper",
+    "archetype": "Marksman",
+    "faction": "Op Reserve A4",
+    "race": "Sankta",
+    "region": "Laterano",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Adnachiel_icon.png", 
+        "full": "/images/operators/Adnachiel.png"
+    }
+  },
+  {
+    "name": "Akafuyu",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Guard",
+    "archetype": "Soloblade",
+    "faction": "Higashi",
+    "race": "Aegir",
+    "region": "Higashi",
+    "release": { 
+        "date_global": "2023-12-28", 
+        "event_name": "Under Tides"
+    },
+    "image": { 
+        "portrait": "/images/operators/Akafuyu_icon.png", 
+        "full": "/images/operators/Akafuyu.png"
+    }
+  },
+  {
+    "name": "Amiya",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Caster",
+    "archetype": "Core",
+    "faction": "Rhodes Island",
+    "race": "Cautus",
+    "region": "Rim Billiton",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Amiya_icon.png",
+      "full": "/images/operators/Amiya.png"
+    }
+  },
+  {
+    "name": "Angelina",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Supporter",
+    "archetype": "Decel Binder",
+    "faction": "Siracusa",
+    "race": "Vulpo",
+    "region": "Siracusa",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Angelina_icon.png",
+      "full": "/images/operators/Angelina.png"
+    }
+  },
+  {
+    "name": "Ansel",
+    "gender": "M",
+    "rarity": 3,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Op Reserve A4",
+    "race": "Cautus",
+    "region": "Rim Billiton",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Ansel_icon.png",
+      "full": "/images/operators/Ansel.png"
+    }
+  },
+
+
+  {
+    "name": "Bagpipe",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Vanguard",
+    "archetype": "Charger",
+    "faction": "Rhodes Island",
+    "race": "Vouivre",
+    "region": "Victoria",
+    "release": { 
+        "date_global": "2020-09-10", 
+        "event_name": "Contingency Contract Barrenland"
+    },
+    "image": { 
+        "portrait": "/images/operators/Bagpipe_icon.png", 
+        "full": "/images/operators/Bagpipe.png"
+    }
+  },
+  {
+    "name": "Beagle",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Defender",
+    "archetype": "Protector",
+    "faction": "Op Reserve A1",
+    "race": "Perro",
+    "region": "Bolívar",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Beagle_icon.png",
+      "full": "/images/operators/Beagle.png"
+    }
+  },
+  {
+    "name": "Blue Poison",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Sniper",
+    "archetype": "Marksman",
+    "faction": "Iberia",
+    "race": "Anura",
+    "region": "Unknown",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Blue_Poison_icon.png",
+      "full": "/images/operators/Blue_Poison.png"
+    }
+  },
+
+
+  {
+    "name": "Cardigan",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Defender",
+    "archetype": "Protector",
+    "faction": "Op Reserve A4",
+    "race": "Perro",
+    "region": "Leithanien",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Cardigan_icon.png",
+      "full": "/images/operators/Cardigan.png"
+    }
+  },
+  {
+    "name": "Castle-3",
+    "gender": "M",
+    "rarity": 1,
+    "class": "Guard",
+    "archetype": "Dreadnought",
+    "faction": "Rhodes Island",
+    "race": "Robot",
+    "region": "Columbia",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Castle-3_icon.png", 
+        "full": "/images/operators/Castle-3.png"
+    }
+  },
+
+  {
+    "name": "Ch’en",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Guard",
+    "archetype": "Swordmaster",
+    "faction": "Lungmen Guard Department",
+    "race": "Lung",
+    "region": "Lungmen",
+    "release": { 
+        "date_global": "2020-02-26", 
+        "event_name": "Necessary Solutions"
+    },
+    "image": { 
+        "portrait": "/images/operators/Chen_icon.png", 
+        "full": "/images/operators/Chen.png"
+    }
+  },
+  {
+    "name": "Cliffheart",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Specialist",
+    "archetype": "Hookmaster",
+    "faction": "Karlan Trade",
+    "race": "Feline",
+    "region": "Kjerag",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Cliffheart_icon.png",
+      "full": "/images/operators/Cliffheart.png"
+    }
+  },
+  {
+    "name": "Courier",
+    "gender": "M",
+    "rarity": 4,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "Karlan Trade",
+    "race": "Itra",
+    "region": "Kjerag",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Courier_icon.png",
+      "full": "/images/operators/Courier.png"
+    }
+  },
+  {
+    "name": "Croissant",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Defender",
+    "archetype": "Protector",
+    "faction": "Penguin Logistics",
+    "race": "Forte",
+    "region": "Minos",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Croissant_icon.png",
+      "full": "/images/operators/Croissant.png"
+    }
+  },
+  {
+    "name": "Cuora",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Defender",
+    "archetype": "Protector",
+    "faction": "Columbia",
+    "race": "Petram",
+    "region": "Undisclosed",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Cuora_icon.png",
+      "full": "/images/operators/Cuora.png"
+    }
+  },
+
+
+  {
+    "name": "Deepcolor",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Supporter",
+    "archetype": "Summoner",
+    "faction": "Ægir",
+    "race": "Undisclosed",
+    "region": "Undisclosed",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Deepcolor_icon.png",
+      "full": "/images/operators/Deepcolor.png"
+    }
+  },
+  {
+    "name": "Dobermann",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Guard",
+    "archetype": "Instructor",
+    "faction": "Rhodes Island",
+    "race": "Perro",
+    "region": "Bolívar",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Dobermann_icon.png",
+      "full": "/images/operators/Dobermann.png"
+    }
+  },
+  {
+    "name": "Durin",
+    "gender": "F",
+    "rarity": 2,
+    "class": "Caster",
+    "archetype": "Core",
+    "faction": "Op A4",
+    "race": "Durin",
+    "region": "Durin",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Durin_icon.png", 
+        "full": "/images/operators/Durin.png"
+    }
+  },
+
+
+  {
+    "name": "Earthspirit",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Supporter",
+    "archetype": "Decel Binder",
+    "faction": "Leithanien",
+    "race": "Caprinae",
+    "region": "Leithanien",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Earthspirit_icon.png",
+      "full": "/images/operators/Earthspirit.png"
+    }
+  },
+  {
+    "name": "Estelle",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Guard",
+    "archetype": "Centurion",
+    "faction": "Sargon",
+    "race": "Archosauria",
+    "region": "Undisclosed",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Estelle_icon.png",
+      "full": "/images/operators/Estelle.png"
+    }
+  },
+  {
+    "name": "Eyjafjalla",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Caster",
+    "archetype": "Core",
+    "faction": "Leithanien",
+    "race": "Caprinae",
+    "region": "Leithanien",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Eyjafjalla_icon.png", 
+        "full": "/images/operators/Eyjafjalla.png"
+    }
+  },
+  {
+    "name": "Exusiai",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Sniper",
+    "archetype": "Marksman",
+    "faction": "Penguin Logistics",
+    "race": "Sankta",
+    "region": "Laterano",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Exusiai_icon.png", 
+        "full": "/images/operators/Exusiai.png"
+    }
+  },
+
+
+  {
+    "name": "Fang",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "Op Reserve A1",
+    "race": "Kuranta",
+    "region": "Kazimierz",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Fang_icon.png",
+      "full": "/images/operators/Fang.png"
+    }
+  },
+  {
+    "name": "FEater",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Specialist",
+    "archetype": "Push Stroker",
+    "faction": "Lungmen",
+    "race": "Ursus",
+    "region": "Yan",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/FEater_icon.png",
+      "full": "/images/operators/FEater.png"
+    }
+  },
+  {
+    "name": "Firewatch",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Sniper",
+    "archetype": "Deadeye",
+    "faction": "Rhodes Island",
+    "race": "Elafia",
+    "region": "Unknown",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Firewatch_icon.png",
+      "full": "/images/operators/Firewatch.png"
+    }
+  },
+  {
+    "name": "Franka",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Guard",
+    "archetype": "Dreadnought",
+    "faction": "Blacksteel",
+    "race": "Vulpo",
+    "region": "Columbia",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Franka_icon.png",
+      "full": "/images/operators/Franka.png"
+    }
+  },
+  {
+    "name": "Frostleaf",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Guard",
+    "archetype": "Lord",
+    "faction": "Rhodes Island",
+    "race": "Vulpo",
+    "region": "Columbia",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Frostleaf_icon.png",
+      "full": "/images/operators/Frostleaf.png"
+    }
+  },
+
+
+  {
+    "name": "Gavial",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Rhodes Island",
+    "race": "Archosauria",
+    "region": "Undisclosed",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Gavial_icon.png",
+      "full": "/images/operators/Gavial.png"
+    }
+  },
+  {
+    "name": "Gitano",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Caster",
+    "archetype": "Splash",
+    "faction": "Sami",
+    "race": "Elafia",
+    "region": "Sami",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Gitano_icon.png",
+      "full": "/images/operators/Gitano.png"
+    }
+  },
+  {
+    "name": "Gravel",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Specialist",
+    "archetype": "Executor",
+    "faction": "Kazimierz",
+    "race": "Zalak",
+    "region": "Kazimierz",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Gravel_icon.png",
+      "full": "/images/operators/Gravel.png"
+    }
+  },
+  {
+    "name": "Gummy",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Defender",
+    "archetype": "Guardian",
+    "faction": "Ursus Student Self-Governing Group",
+    "race": "Ursus",
+    "region": "Ursus",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Gummy_icon.png",
+      "full": "/images/operators/Gummy.png"
+    }
+  },
+
+
+  {
+    "name": "Haze",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Caster",
+    "archetype": "Core",
+    "faction": "Victoria",
+    "race": "Feline",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Haze_icon.png",
+      "full": "/images/operators/Haze.png"
+    }
+  },
+  {
+    "name": "Hibiscus",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Op Reserve A1",
+    "race": "Sarkaz",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Hibiscus_icon.png",
+      "full": "/images/operators/Hibiscus.png"
+    }
+  },
+  {
+    "name": "Hoshiguma",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Defender",
+    "archetype": "Protector",
+    "faction": "Lungmen Guard Department",
+    "race": "Oni",
+    "region": "Higashi",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Hoshiguma_icon.png",
+      "full": "/images/operators/Hoshiguma.png"
+    }
+  },
+
+
+  {
+    "name": "Ifrit",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Caster",
+    "archetype": "Blast",
+    "faction": "Rhine Lab",
+    "race": "Sarkaz",
+    "region": "Unknown",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Ifrit_icon.png", 
+        "full": "/images/operators/Ifrit.png"
+    }
+  },
+  {
+    "name": "Indra",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Guard",
+    "archetype": "Fighter",
+    "faction": "Glasgow",
+    "race": "Feline",
+    "region": "Unknown",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Indra_icon.png",
+      "full": "/images/operators/Indra.png"
+    }
+  },
+  {
+    "name": "Istina",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Supporter",
+    "archetype": "Decel Binder",
+    "faction": "Ursus Student Self-Governing Group",
+    "race": "Ursus",
+    "region": "Ursus",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Istina_icon.png",
+      "full": "/images/operators/Istina.png"
+    }
+  },
+
+
+  {
+    "name": "Jessica",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Sniper",
+    "archetype": "Marksman",
+    "faction": "Blacksteel",
+    "race": "Feline",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Jessica_icon.png",
+      "full": "/images/operators/Jessica.png"
+    }
+  },
+
+
+{
+    "name": "Kroos",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Sniper",
+    "archetype": "Marksman",
+    "faction": "Op Reserve A1",
+    "race": "Cautus",
+    "region": "Rim Billiton",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Kroos_icon.png",
+      "full": "/images/operators/Kroos.png"
+    }
+  },
+
+
+
+  {
+    "name": "Lancet-2",
+    "gender": "F",
+    "rarity": 1,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Rhodes Island",
+    "race": "Robot",
+    "region": "Columbia",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Lancet-2_icon.png", 
+        "full": "/images/operators/Lancet-2.png"
+    }
+  },
+  {
+    "name": "Lappland",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Guard",
+    "archetype": "Lord",
+    "faction": "Siracusa",
+    "race": "Lupo",
+    "region": "Siracusa",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Lappland_icon.png",
+      "full": "/images/operators/Lappland.png"
+    }
+  },
+  {
+    "name": "Lava",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Caster",
+    "archetype": "Splash",
+    "faction": "Op Reserve A1",
+    "race": "Sarkaz",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Lava_icon.png",
+      "full": "/images/operators/Lava.png"
+    }
+  },
+  {
+    "name": "Liskarm",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Defender",
+    "archetype": "Sentry Protector",
+    "faction": "Blacksteel",
+    "race": "Vouivre",
+    "region": "Vouivre",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Liskarm_icon.png",
+      "full": "/images/operators/Liskarm.png"
+    }
+  },
+
+
+  {
+    "name": "Manticore",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Specialist",
+    "archetype": "Ambusher",
+    "faction": "Sargon",
+    "race": "Manticore",
+    "region": "Sargon",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Manticore_icon.png",
+      "full": "/images/operators/Manticore.png"
+    }
+  }, 
+  {
+    "name": "Matoimaru",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Guard",
+    "archetype": "Dreadnought",
+    "faction": "Higashi",
+    "race": "Oni",
+    "region": "Higashi",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Matoimaru_icon.png",
+      "full": "/images/operators/Matoimaru.png"
+    }
+  },
+  {
+    "name": "Matterhorn",
+    "gender": "M",
+    "rarity": 4,
+    "class": "Defender",
+    "archetype": "Protector",
+    "faction": "Karlan Trade",
+    "race": "Forte",
+    "region": "Kjerag",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Matterhorn_icon.png",
+      "full": "/images/operators/Matterhorn.png"
+    }
+  },
+  {
+    "name": "Mayer",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Supporter",
+    "archetype": "Summoner",
+    "faction": "Rhine Lab",
+    "race": "Anaty",
+    "region": "Columbia",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Mayer_icon.png",
+      "full": "/images/operators/Mayer.png"
+    }
+  },
+  {
+    "name": "Melantha",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Guard",
+    "archetype": "Dreadnought",
+    "faction": "Op Reserve A4",
+    "race": "Feline",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Melantha_icon.png",
+      "full": "/images/operators/Melantha.png"
+    }
+  },
+  {
+    "name": "Meteor",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Sniper",
+    "archetype": "Marksman",
+    "faction": "Kazimierz",
+    "race": "Kuranta",
+    "region": "Kazimierz",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Meteor_icon.png",
+      "full": "/images/operators/Meteor.png"
+    }
+  },
+  {
+    "name": "Meteorite",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Sniper",
+    "archetype": "Artilleryman",
+    "faction": "Rhodes Island",
+    "race": "Sarkaz",
+    "region": "Kazdel",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Meteorite_icon.png",
+      "full": "/images/operators/Meteorite.png"
+    }
+  },
+  {
+    "name": "Mousse",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Guard",
+    "archetype": "Arts Fighter",
+    "faction": "Victoria",
+    "race": "Feline",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Mousse_icon.png",
+      "full": "/images/operators/Mousse.png"
+    }
+  },
+  {
+    "name": "Myrrh",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Rhodes Island",
+    "race": "Vulpo",
+    "region": "Unknown",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Myrrh_icon.png",
+      "full": "/images/operators/Myrrh.png"
+    }
+  },
+
+
+  {
+    "name": "Nearl",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Defender",
+    "archetype": "Guardian",
+    "faction": "Followers",
+    "race": "Kuranta",
+    "region": "Kazimierz",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Nearl_icon.png",
+      "full": "/images/operators/Nearl.png"
+    }
+  },
+  {
+    "name": "Nightingale",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Medic",
+    "archetype": "Multi-target",
+    "faction": "Followers",
+    "race": "Sarkaz",
+    "region": "Kazdel",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Nightingale_icon.png", 
+        "full": "/images/operators/Nightingale.png"
+    }
+  },
+  {
+    "name": "Noir Corne",
+    "gender": "M",
+    "rarity": 2,
+    "class": "Defender",
+    "archetype": "Protector",
+    "faction": "Op A4",
+    "race": "Oni",
+    "region": "Higashi",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Noir_Corne_icon.png", 
+        "full": "/images/operators/Noir_Corne.png"
+    }
+  },
+
+
+  {
+    "name": "Orchid",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Supporter",
+    "archetype": "Decel Binder",
+    "faction": "Op Reserve A6",
+    "race": "Liberi",
+    "region": "Columbia",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Orchid_icon.png",
+      "full": "/images/operators/Orchid.png"
+    }
+  },
+
+
+  {
+    "name": "Perfumer",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Medic",
+    "archetype": "Multi-target",
+    "faction": "Rhodes Island",
+      "race": "Vulpo",
+    "region": "Minos",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Perfumer_icon.png",
+      "full": "/images/operators/Perfumer.png"
+    }
+  },
+  {
+    "name": "Platinum",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Sniper",
+    "archetype": "Marksman",
+    "faction": "Kazimierz",
+    "race": "Kuranta",
+    "region": "Kazimierz",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Platinum_icon.png",
+      "full": "/images/operators/Platinum.png"
+    }
+  },
+  {
+    "name": "Plume",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Vanguard",
+    "archetype": "Charger",
+    "faction": "Laterano",
+    "race": "Liberi",
+    "region": "Laterano",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Plume_icon.png",
+      "full": "/images/operators/Plume.png"
+    }
+  },
+  {
+    "name": "Pramanix",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Supporter",
+    "archetype": "Hexer",
+    "faction": "Karlan Trade",
+    "race": "Feline",
+    "region": "Kjerag",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Pramanix_icon.png",
+      "full": "/images/operators/Pramanix.png"
+    }
+  },
+  {
+    "name": "Projekt Red",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Specialist",
+    "archetype": "Executor",
+    "faction": "S.W.E.E.P.",
+    "race": "Lupo",
+    "region": "Undisclosed",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Projekt_Red_icon.png",
+      "full": "/images/operators/Projekt_Red.png"
+    }
+  },
+  {
+    "name": "Provence",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Sniper",
+    "archetype": "Heavyshooter",
+    "faction": "Siracusa",
+    "race": "Lupo",
+    "region": "Siracusa",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Provence_icon.png",
+      "full": "/images/operators/Provence.png"
+    }
+  },
+  {
+    "name": "Ptilopsis",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Medic",
+    "archetype": "Multi-target",
+    "faction": "Rhine Lab",
+    "race": "Liberi",
+    "region": "Columbia",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Ptilopsis_icon.png",
+      "full": "/images/operators/Ptilopsis.png"
+    }
+  },
+
+
+  {
+    "name": "Rangers",
+    "gender": "M",
+    "rarity": 2,
+    "class": "Sniper",
+    "archetype": "Marksman",
+    "faction": "Op A4",
+    "race": "Savra",
+    "region": "Undisclosed",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Rangers_icon.png", 
+        "full": "/images/operators/Rangers.png"
+    }
+  },
+  {
+    "name": "Rope",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Specialist",
+      "archetype": "Hookmaster",
+    "faction": "Lungmen",
+    "race": "Cautus",
+    "region": "Rim Billiton",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Rope_icon.png",
+      "full": "/images/operators/Rope.png"
+    }
+  },
+
+
+  {
+    "name": "Saria",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Defender",
+    "archetype": "Guardian",
+    "faction": "Rhine Lab",
+    "race": "Vouivre",
+    "region": "Columbia",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Saria_icon.png",
+      "full": "/images/operators/Saria.png"
+    }
+  },
+  {
+    "name": "Scavenger",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "S.W.E.E.P.",
+    "race": "Zalak",
+    "region": "Unknown",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Scavenger_icon.png",
+      "full": "/images/operators/Scavenger.png"
+    }
+  },
+  {
+    "name": "Shaw",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Specialist",
+    "archetype": "Push Stroker",
+    "faction": "Lungmen",
+    "race": "Zalak",
+    "region": "Lungmen",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Shaw_icon.png",
+      "full": "/images/operators/Shaw.png"
+    }
+  },
+  {
+    "name": "Shining",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Followers",
+    "race": "Sarkaz",
+    "region": "Kazdel",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Shining_icon.png",
+      "full": "/images/operators/Shining.png"
+    }
+  },
+  {
+    "name": "Shirayuki",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Sniper",
+    "archetype": "Artilleryman",
+    "faction": "Higashi",
+    "race": "Anaty",
+    "region": "Higashi",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Shirayuki_icon.png",
+      "full": "/images/operators/Shirayuki.png"
+    }
+  },
+  {
+    "name": "Siege",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "Glasgow",
+    "race": "Aslan",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Siege_icon.png",
+      "full": "/images/operators/Siege.png"
+    }
+  },
+  {
+    "name": "Silence",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Rhine Lab",
+    "race": "Liberi",
+    "region": "Columbia",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Silence_icon.png",
+      "full": "/images/operators/Silence.png"
+    }
+  },
+  {
+    "name": "SilverAsh",
+    "gender": "M",
+    "rarity": 6,
+    "class": "Guard",
+    "archetype": "Lord",
+    "faction": "Karlan Trade",
+    "race": "Feline",
+    "region": "Kjerag",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/SilverAsh_icon.png", 
+        "full": "/images/operators/SilverAsh.png"
+    }
+  },
+  {
+    "name": "Skyfire",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Caster",
+    "archetype": "Splash",
+    "faction": "Victoria",
+    "race": "Feline",
+    "region": "Victoria",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Skyfire_icon.png",
+      "full": "/images/operators/Skyfire.png"
+    }
+  },
+  {
+    "name": "Sora",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Supporter",
+    "archetype": "Bard",
+    "faction": "Penguin Logistics",
+    "race": "Unknown as requested by management agency",
+    "region": "Unknown as requested by management agency",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Sora_icon.png",
+      "full": "/images/operators/Sora.png"
+    }
+  },
+  {
+    "name": "Specter",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Guard",
+    "archetype": "Centurion",
+    "faction": "Abyssal Hunters",
+    "race": "Undisclosed",
+    "region": "Ægir",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Specter_icon.png",
+      "full": "/images/operators/Specter.png"
+    }
+  },
+  {
+    "name": "Steward",
+    "gender": "M",
+    "rarity": 3,
+    "class": "Caster",
+    "archetype": "Core",
+    "faction": "Op Reserve A4",
+    "race": "Vulpo",
+    "region": "Kjerag",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Steward_icon.png",
+      "full": "/images/operators/Steward.png"
+    }
+  },
+  {
+    "name": "Surtr",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Guard",
+    "archetype": "Arts Fighter",
+    "faction": "Rhodes Island",
+    "race": "Sarkaz",
+    "region": "Unknown",
+    "release": { 
+        "date_global": "2021-03-25", 
+        "event_name": "Rewinding Breeze"
+    },
+    "image": { 
+        "portrait": "/images/operators/Surtr_icon.png", 
+        "full": "/images/operators/Surtr.png"
+    }
+  },
+  {
+    "name": "Skadi",
+    "gender": "F",
+    "rarity": 6,
+    "class": "Guard",
+    "archetype": "Dreadnought",
+    "faction": "Abyssal Hunters",
+    "race": "Unknown ",
+    "region": "Aegir",
+    "release": { 
+        "date_global": "2020-02-05", 
+        "event_name": "Grani and the Knights' Treasure Rerun"
+    },
+    "image": { 
+        "portrait": "/images/operators/Skadi_icon.png", 
+        "full": "/images/operators/Skadi.png"
+    }
+  },
+
+
+  {
+    "name": "Texas",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "Penguin Logistics",
+    "race": "Lupo",
+    "region": "Columbia",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Texas_icon.png", 
+        "full": "/images/operators/Texas.png"
+    }
+  },
+
+
+  {
+    "name": "Vanilla",
+    "gender": "F",
+    "rarity": 3,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "Blacksteel",
+    "race": "Vouivre",
+    "region": "Vouivre",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Vanilla_icon.png",
+      "full": "/images/operators/Vanilla.png"
+    }
+  },
+  {
+    "name": "Vigna",
+    "gender": "F",
+    "rarity": 4,
+    "class": "Vanguard",
+    "archetype": "Charger",
+    "faction": "Columbia",
+    "race": "Sarkaz",
+    "region": "Kazdel",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Vigna_icon.png",
+      "full": "/images/operators/Vigna.png"
+    }
+  },
+  {
+    "name": "Vulcan",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Defender",
+    "archetype": "Juggernaut",
+    "faction": "Minos",
+    "race": "Forte",
+    "region": "Minos",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Vulcan_icon.png",
+      "full": "/images/operators/Vulcan.png"
+    }
+  },
+
+
+  {
+    "name": "Warfarin",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Medic",
+    "archetype": "Medic",
+    "faction": "Rhodes Island",
+    "race": "Sarkaz",
+    "region": "Kazdel",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Warfarin_icon.png",
+      "full": "/images/operators/Warfarin.png"
+    }
+  },
+
+
+  {
+    "name": "Yato",
+    "gender": "F",
+    "rarity": 2,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "Op A4",
+    "race": "Oni",
+    "region": "Higashi",
+    "release": { 
+        "date_global": "2020-01-16", 
+        "event_name": "Launch"
+    },
+    "image": { 
+        "portrait": "/images/operators/Yato_icon.png", 
+        "full": "/images/operators/Yato.png"
+    }
+  },
+
+  {
+    "name": "Zima",
+    "gender": "F",
+    "rarity": 5,
+    "class": "Vanguard",
+    "archetype": "Pioneer",
+    "faction": "Ursus Student Self-Governing Group",
+    "race": "Ursus",
+    "region": "Ursus",
+    "release": {
+      "date_global": "2020-01-16",
+      "event_name": "Launch"
+    },
+    "image": {
+      "portrait": "/images/operators/Zima_icon.png",
+      "full": "/images/operators/Zima.png"
+    }
+  }
+  
+]
