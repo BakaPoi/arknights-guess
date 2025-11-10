@@ -220,7 +220,7 @@ export default function OperatorGuessGame() {
 
       <div className="yesterday-info">
         Yesterday: {yesterdayTarget.name}
-        <img src={yesterdayTarget.image.portrait} alt={yesterdayTarget.name} className="yesterday-img" />
+        <img src={`${process.env.PUBLIC_URL}/${yesterdayTarget.image.portrait}`} alt={yesterdayTarget.name} className="yesterday-img" />
       </div>
 
       <form onSubmit={handleSubmit} className="guess-form">
@@ -240,7 +240,7 @@ export default function OperatorGuessGame() {
                   onClick={() => handleSubmit(new Event("submit"), op)}
                   className="autocomplete-item"
                 >
-                  <img src={op.image.portrait} alt={op.name} className="autocomplete-icon" />
+                  <img src={`${process.env.PUBLIC_URL}/${op.image.portrait}`} alt={op.name} className="autocomplete-icon" />
                   {op.name}
                 </li>
               ))}
@@ -274,7 +274,7 @@ export default function OperatorGuessGame() {
         <tbody>
           {guesses.map((g, i) => (
             <tr key={i}>
-              <td><img src={g.image?.portrait} alt={g.name} className="portrait" /></td>
+              <td><img src={`${process.env.PUBLIC_URL}/${g.image?.portrait}`} alt={g.name} className="portrait" /></td>
               <td>{g.name}</td>
               <td className={getColorClass(g.gender.status)}>{formatValue(g.gender)}</td>
               <td className={getColorClass(g.rarity.status)}>{formatValue(g.rarity)}</td>
@@ -293,7 +293,7 @@ export default function OperatorGuessGame() {
           <div className="win-popup">
             <h2>🎉 You found today's Operator!</h2>
             <p className="win-name">{target.name}</p>
-            <img src={target.image.full} alt={target.name} className="win-image" />
+            <img src={`${process.env.PUBLIC_URL}/${target.image.full}`} alt={target.name} className="win-image" />
             <button onClick={() => setShowWin(false)} className="win-button">OK</button>
           </div>
         </div>
