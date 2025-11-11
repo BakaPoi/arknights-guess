@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arknights-guess/static/css/main.7bcca9dd.css",
-    "main.js": "/arknights-guess/static/js/main.bae2c014.js",
+    "main.css": "/arknights-guess/static/css/main.913eec8b.css",
+    "main.js": "/arknights-guess/static/js/main.864ce427.js",
     "static/js/453.c9cddfe9.chunk.js": "/arknights-guess/static/js/453.c9cddfe9.chunk.js",
     "index.html": "/arknights-guess/index.html",
-    "main.7bcca9dd.css.map": "/arknights-guess/static/css/main.7bcca9dd.css.map",
-    "main.bae2c014.js.map": "/arknights-guess/static/js/main.bae2c014.js.map",
+    "main.913eec8b.css.map": "/arknights-guess/static/css/main.913eec8b.css.map",
+    "main.864ce427.js.map": "/arknights-guess/static/js/main.864ce427.js.map",
     "453.c9cddfe9.chunk.js.map": "/arknights-guess/static/js/453.c9cddfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bcca9dd.css",
-    "static/js/main.bae2c014.js"
+    "static/css/main.913eec8b.css",
+    "static/js/main.864ce427.js"
   ]
 }
